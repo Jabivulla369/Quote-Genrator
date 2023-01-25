@@ -1,0 +1,3 @@
+What is a Random Quote Generator Will Work?
+
+A Random Quote Generator Works Like When a User Clicks On the Get Quote Button It Gives User Some Quotes As Many Times the User clicks On The Get Quote Button New Quote Appears. In this Project There is No API (Application Programming Interface) Used. I Have Just Created a Variable Called Quotes And Put Some Quotes Extracted From GOOGLE.
